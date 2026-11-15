@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.5](https://github.com/aifivem/ai-target/compare/v0.2.4...v0.2.5) (2026-11-15)
+
+
+### Miscellaneous Chores
+
+* **web:** ship the Chromium 144 build, without the CEF 103 colour fallbacks, built on the bun runtime ([b12bc3f](https://github.com/aifivem/ai-target/commit/b12bc3fdc946d084a7aa745b45a9facbdb6993b8))
+
 ## [0.2.4](https://github.com/aifivem/ai-target/compare/v0.2.3...v0.2.4) (2026-11-02)
 
 

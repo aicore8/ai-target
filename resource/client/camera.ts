@@ -1,4 +1,4 @@
-import { every } from "@aifivem/lib/client";
+import { every } from "@aicore8/lib/client";
 import { NuiMessage, type TargetMove } from "common/nui";
 import type { Vec3 } from "./zones";
 

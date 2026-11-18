@@ -1,5 +1,5 @@
-import { cache, every, medical } from "@aifivem/lib/client";
-import { createLogger } from "@aifivem/lib/shared";
+import { cache, every, medical } from "@aicore8/lib/client";
+import { createLogger } from "@aicore8/lib/shared";
 import { ResourceName } from "common";
 import { NuiMessage } from "common/nui";
 import { CameraStream, type Follow } from "./camera";

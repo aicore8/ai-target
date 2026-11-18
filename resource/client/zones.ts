@@ -1,6 +1,6 @@
-import { ByResource } from "@aifivem/lib/client";
+import { ByResource } from "@aicore8/lib/client";
 import type { TargetOption } from "common/options";
-import { cellKey, flatDistance, gridCell } from "@aifivem/lib/shared";
+import { cellKey, flatDistance, gridCell } from "@aicore8/lib/shared";
 
 /**
  * Target zones (ox_target's sphere, box and poly) in a grid of 64 m cells: a scan asks only for the zones whose

@@ -1,4 +1,4 @@
-import { controls, registerExport } from "@aifivem/lib/client";
+import { controls, registerExport } from "@aicore8/lib/client";
 import { NuiCallback, NuiMessage } from "common/nui";
 import type { TargetOption } from "common/options";
 import { runOption } from "./actions";
